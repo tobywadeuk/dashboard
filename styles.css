@@ -174,7 +174,7 @@ alone */
 }
 
 .uhinput {
-    width: 600px;
+    width: 50vw;
     height: 30px;
     box-sizing: border-box;
     border-radius: 12px;
@@ -224,7 +224,7 @@ alone */
     font-size: 22px;
     font-weight: 600;
     width: 100%;
-    min-width: 500px;
+    min-width: 23ch;
 }
 
 
